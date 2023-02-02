@@ -1,0 +1,13 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "GNU GPLv3"
+
+[[mods]]
+modId = "realismpastelic"
+version = "${version}"
+displayName = "RealismPastelic"
+displayURL="https://turbomc.tk/"
+logoFile="icon.png"
+credits="Я самая пиздатая"
+authors="dima_dencep"
+description = "Меня заставили убрать старое описание"

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.github.dimadencep.realismpastelic.patch",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "ForgeIngameMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
